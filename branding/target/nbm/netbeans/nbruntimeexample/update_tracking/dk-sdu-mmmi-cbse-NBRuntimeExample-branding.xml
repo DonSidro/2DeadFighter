@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.NBRuntimeExample.branding">
+    <module_version install_time="1459761942590" last="true" origin="installer" specification_version="1.0">
+        <file crc="4288037492" name="config/Modules/dk-sdu-mmmi-cbse-NBRuntimeExample-branding.xml"/>
+        <file crc="2622773385" name="core/locale/core_nbruntimeexample.jar"/>
+        <file crc="3716355353" name="modules/dk-sdu-mmmi-cbse-NBRuntimeExample-branding.jar"/>
+        <file crc="1167089301" name="modules/locale/org-netbeans-core-windows_nbruntimeexample.jar"/>
+        <file crc="76189488" name="modules/locale/org-netbeans-core_nbruntimeexample.jar"/>
+        <file crc="1201053729" name="update_tracking/dk-sdu-mmmi-cbse-NBRuntimeExample-branding.xml"/>
+    </module_version>
+</module>
