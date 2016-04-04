@@ -11,7 +11,7 @@
     <artifactId>NBRuntimeExample-app</artifactId>
     <packaging>nbm-application</packaging>
 
-    <name>NBRuntimeExample-app</name>
+    <name>2DeadFighter-app</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
