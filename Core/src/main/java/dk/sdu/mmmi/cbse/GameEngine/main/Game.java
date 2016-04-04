@@ -1,4 +1,4 @@
-package dk.sdu.mmmi.cbse.core.main;
+package dk.sdu.mmmi.cbse.GameEngine.main;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
@@ -12,7 +12,7 @@ import dk.sdu.mmmi.cbse.common.data.Entity;
 import dk.sdu.mmmi.cbse.common.data.GameData;
 import dk.sdu.mmmi.cbse.common.services.IEntityProcessingService;
 import dk.sdu.mmmi.cbse.common.services.IGamePluginService;
-import dk.sdu.mmmi.cbse.core.managers.GameInputProcessor;
+import dk.sdu.mmmi.cbse.GameEngine.managers.GameInputProcessor;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
