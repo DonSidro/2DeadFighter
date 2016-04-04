@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 OpenIDE-Module-Install: dk/sdu/mmmi/cbse/core/main/Installer.class
 OpenIDE-Module-Specification-Version: 1.0
 OpenIDE-Module-Implementation-Version: 1.0-20160404
-OpenIDE-Module-Build-Version: 201604041004
+OpenIDE-Module-Build-Version: 201604041024
 OpenIDE-Module: dk.sdu.mmmi.cbse.Core
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
 OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
-OpenIDE-Module-Name: Core
+OpenIDE-Module-Name: GameEngine
 OpenIDE-Module-Short-Description: <undefined>
 OpenIDE-Module-Long-Description: <undefined>
 X-Class-Path: ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar 
