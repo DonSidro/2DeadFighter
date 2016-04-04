@@ -97,5 +97,5 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <libGDX.version>1.5.0</libGDX.version>
     </properties>
-    <name>GameEngine</name>
+    <name>Core</name>
 </project>
